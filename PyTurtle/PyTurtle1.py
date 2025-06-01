@@ -1,0 +1,20 @@
+import turtle as t
+
+
+t.setheading(90)
+t.forward(200)
+t.setheading(0)
+t.forward(70)
+t.setheading(90)
+t.forward(50)
+t.setheading(180)
+t.forward(200)
+t.setheading(270)
+t.forward(50)
+t.setheading(0)
+t.forward(70)
+t.setheading(270)
+t.forward(200)
+t.setheading(0)
+t.forward(60)
+t.done()
