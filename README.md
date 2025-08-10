@@ -1,3 +1,4 @@
+<p><a href="https://stand-with-ukraine.pp.ua"><img src="https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct-single.svg" alt="Stand With Ukraine"></a></p>
 # 📚 All My PyCharm Projects
 
 Welcome to my collection of various Python projects developed with ❤️ in PyCharm!
